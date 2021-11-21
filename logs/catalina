@@ -1,0 +1,339 @@
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\a
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\a has finished in 160 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\j2ee
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\j2ee has finished in 7 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\javaweb0
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\javaweb0 has finished in 56 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\javaweb1
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\javaweb1 has finished in 25 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 2 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory E:/‰∏ãËΩΩ/javaweb/web
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory E:/‰∏ãËΩΩ/javaweb/web has finished in 3 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:/Java/DiyTomcat/b
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:/Java/DiyTomcat/b has finished in 1 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:06:39 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher@4b5ac4a7 Ê£ÄÊµãÂà∞‰∫ÜWebÂ∫îÁî®‰∏ãÁöÑÈáçË¶ÅÊñá‰ª∂ÁöÑÂèòÂåñ web.xml 
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/j2ee] has started
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\j2ee
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\j2ee has finished in 4 ms
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/j2ee] has completed
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher@55066180 Ê£ÄÊµãÂà∞‰∫ÜWebÂ∫îÁî®‰∏ãÁöÑÈáçË¶ÅÊñá‰ª∂ÁöÑÂèòÂåñ ClientJumpServlet.class 
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb1] has started
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\javaweb1
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\javaweb1 has finished in 3 ms
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb1] has completed
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : top.linzeliang.diytomcat.watcher.ContextFileChangeWatcher@79a70e4d Ê£ÄÊµãÂà∞‰∫ÜWebÂ∫îÁî®‰∏ãÁöÑÈáçË¶ÅÊñá‰ª∂ÁöÑÂèòÂåñ ClientJumpServlet.class 
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb0] has started
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\javaweb0
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\javaweb0 has finished in 3 ms
+07 31, 2021 11:08:43 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb0] has completed
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 161 ms
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory E:/‰∏ãËΩΩ/javaweb/web
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory E:/‰∏ãËΩΩ/javaweb/web has finished in 3 ms
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:/Java/DiyTomcat/b
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:/Java/DiyTomcat/b has finished in 1 ms
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:11:35 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+07 31, 2021 11:12:42 ‰∏äÂçà top.linzeliang.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately create exception!
+java.lang.RuntimeException: this is a deliberately create exception!
+	at top.linzeliang.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at top.linzeliang.diytomcat.http.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:35)
+	at top.linzeliang.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:64)
+	at top.linzeliang.diytomcat.catalina.Connector$1.run(Connector.java:96)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 31, 2021 11:13:00 ‰∏äÂçà top.linzeliang.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately create exception!
+java.lang.RuntimeException: this is a deliberately create exception!
+	at top.linzeliang.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at top.linzeliang.diytomcat.http.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:35)
+	at top.linzeliang.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:64)
+	at top.linzeliang.diytomcat.catalina.Connector$1.run(Connector.java:96)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 172 ms
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory E:/œ¬‘ÿ/javaweb/web
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory E:/œ¬‘ÿ/javaweb/web has finished in 2 ms
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:/Java/DiyTomcat/b
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:/Java/DiyTomcat/b has finished in 2 ms
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:15:13 …œŒÁ top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 14 ms
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 251 ms
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory E:/œ¬‘ÿ/javaweb/web
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory E:/œ¬‘ÿ/javaweb/web has finished in 3 ms
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:/Java/DiyTomcat/b
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:/Java/DiyTomcat/b has finished in 4 ms
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 4 ms
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:16:56 …œŒÁ top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 26 ms
+07 31, 2021 11:17:06 …œŒÁ top.linzeliang.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately create exception!
+java.lang.RuntimeException: this is a deliberately create exception!
+	at top.linzeliang.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at top.linzeliang.diytomcat.http.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:35)
+	at top.linzeliang.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:64)
+	at top.linzeliang.diytomcat.catalina.Connector$1.run(Connector.java:96)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 154 ms
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:22:17 ‰∏äÂçà top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 12 ms
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory H:\Project\DiyTomcat\webapps\ROOT
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory H:\Project\DiyTomcat\webapps\ROOT has finished in 164 ms
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server version		DiyTomcat/1.0.1
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server build		2021-06-18 10:27:04
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Server number		1.0.1
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Name		Windows 10
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : OS Version		10.0
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Architecture		amd64
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : Java Home		D:\Java\JDK8\jre
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Version		1.8.0_251-b08
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor		Oracle Corporation
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 31, 2021 11:23:21 …œŒÁ top.linzeliang.diytomcat.catalina.Server start
+INFO : Server startup in 14 ms
